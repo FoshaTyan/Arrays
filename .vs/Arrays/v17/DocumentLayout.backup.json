@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "Arrays3\\Arrays3.cs",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Arrays\\Arrays3\\Arrays3.cs",
               "RelativeToolTip": "Arrays3\\Arrays3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T17:22:23.91Z",
               "EditorCaption": ""
@@ -73,9 +73,10 @@
               "RelativeDocumentMoniker": "Arrays2\\Arrays2.cs",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Arrays\\Arrays2\\Arrays2.cs",
               "RelativeToolTip": "Arrays2\\Arrays2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T17:22:08.345Z"
+              "WhenOpened": "2024-11-06T17:22:08.345Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,7 +88,8 @@
               "RelativeToolTip": "Arrays\\Arrays1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:24:33.647Z"
+              "WhenOpened": "2024-11-06T13:24:33.647Z",
+              "EditorCaption": ""
             }
           ]
         }
