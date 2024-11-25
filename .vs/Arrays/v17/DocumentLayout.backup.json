@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51ECFF53-5AE9-47CD-AB97-A08A598B4377}|Arrays3\\Arrays3.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\documents\\github\\arrays\\arrays3\\arrays3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ECFF53-5AE9-47CD-AB97-A08A598B4377}|Arrays3\\Arrays3.csproj|solutionrelative:arrays3\\arrays3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4ABF20-DCFC-4CF5-9B46-65963A3BDC16}|Arrays2\\Arrays2.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\documents\\github\\arrays\\arrays2\\arrays2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4ABF20-DCFC-4CF5-9B46-65963A3BDC16}|Arrays2\\Arrays2.csproj|solutionrelative:arrays2\\arrays2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C9C2F-FF76-4ABD-9868-141827534172}|Arrays\\Arrays1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\documents\\github\\arrays\\arrays\\arrays1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296C9C2F-FF76-4ABD-9868-141827534172}|Arrays\\Arrays1.csproj|solutionrelative:arrays\\arrays1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arrays3.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Arrays\\Arrays3\\Arrays3.cs",
+              "RelativeDocumentMoniker": "Arrays3\\Arrays3.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Arrays\\Arrays3\\Arrays3.cs",
+              "RelativeToolTip": "Arrays3\\Arrays3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:22:23.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arrays2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Arrays\\Arrays2\\Arrays2.cs",
+              "RelativeDocumentMoniker": "Arrays2\\Arrays2.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Arrays\\Arrays2\\Arrays2.cs",
+              "RelativeToolTip": "Arrays2\\Arrays2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:22:08.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arrays1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Arrays\\Arrays\\Arrays1.cs",
+              "RelativeDocumentMoniker": "Arrays\\Arrays1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Arrays\\Arrays\\Arrays1.cs",
+              "RelativeToolTip": "Arrays\\Arrays1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:24:33.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
